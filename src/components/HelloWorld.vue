@@ -18,7 +18,7 @@
 </div>
 </template>
 
-</style>
+<style>
 /* Style button on hover and focus */
 .dupe:hover, .dupe:focus {
   background-color: green;
